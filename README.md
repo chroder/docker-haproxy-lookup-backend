@@ -5,7 +5,7 @@ the request domain against an API to decide which backend to use. The result
 can optionally be cached locally to improve subsequent requests.
 
 * Source on Github: https://github.com/chroder/docker-haproxy-lookup-backend
-* Image on Docker Hub: https://hub.docker.com/r/chroder/haproxy-lookup-backend/~/settings/automated-builds/
+* Image on Docker Hub: https://hub.docker.com/r/chroder/haproxy-lookup-backend/
 * Issues: https://github.com/chroder/docker-haproxy-lookup-backend/issues
 
 # Build

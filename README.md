@@ -4,6 +4,10 @@ This container runs an HAProxy instance with a custom Lua script that looks up
 the request domain against an API to decide which backend to use. The result
 can optionally be cached locally to improve subsequent requests.
 
+* Source on Github: https://github.com/chroder/docker-haproxy-lookup-backend
+* Image on Docker Hub: https://hub.docker.com/r/chroder/haproxy-lookup-backend/~/settings/automated-builds/
+* Issues: https://github.com/chroder/docker-haproxy-lookup-backend/issues
+
 # Build
 
 (1.) Create your own `haproxy.cfg` file. Use the default one as an example.
